@@ -16,7 +16,7 @@ var test = "Hello world!";
 console.log(test);
 ```
 
-
+  
 ### GitHub
 
 - Skapa ett [GitHub](https://github.com/) konto med din @edu.umea.se mail.
